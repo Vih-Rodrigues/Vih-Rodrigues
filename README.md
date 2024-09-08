@@ -1,4 +1,4 @@
-# Hey, what's up? I'm Vitória Rodrigues 👋
+# Hey, what's up? I'm Vitória
 
 💻 I’m currently working on full-stack development.
 🔭 I’m looking to collaborate on mobile projects.
