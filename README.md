@@ -1,14 +1,11 @@
 # Hey, what's up? I'm Vitória Rodrigues 👋
 
-- Pronouns: she/her
-- I’m currently working on frontend for my final examination
-- I’m currently learning Analysis and Systems Development
-- I’m looking to collaborate on projects of programming in C#
-- I’m looking for help with HTML and CSS
-- Ask me about everything you want, if I can answer, I will...
-- How to reach me: andrader.vitoria@gmail.com
-- Fun fact: I started learning ASD without knowing what hardware or software was!
-- -> This is me.
+💻 I’m currently working on full-stack development.
+🔭 I’m looking to collaborate on mobile projects.
+🤝 I’m seeking help with APIs.
+💬 Feel free to ask me anything! If I can help, I will.
+📬 How to reach me: andrader.vitoria@gmail.com
+🤓 Fun fact: I started learning Software Analysis and Development without even knowing what hardware or software was!
 
 <div> 
   <a href="https://github.com/Vih-Rodrigues">
